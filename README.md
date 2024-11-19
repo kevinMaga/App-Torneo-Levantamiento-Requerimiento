@@ -14,7 +14,7 @@ To develop a digital system for the management of soccer tournaments that allows
 - Design and implement an identity validation module to effectively verify registered players before each match, minimizing cases of impersonation.
 - Create interactive tools for registration, scheduling, and management of key tournament data, such as calendars, results, statistics, and reports, facilitating access and information management for organizers.
 # Acceptance certificate
-![Acceptance certificate](Acceptance certificate/Captura de pantalla 2024-11-19 153551.png)
+![Acceptance certificate](Acceptance%20certificate/Captura%20de%20pantalla%202024-11-19%20153551.png)
 # Group Members
 - MAGALLANES AREVALO KEVIN RICARDO
 - SANCHEZ CABEZAS EDUARDO GABRIEL
